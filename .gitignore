@@ -1,0 +1,13 @@
+/node_modules
+/build
+/dist
+/report
+/typings
+.DS_Store
+src/app/**/*.js
+src/app/**/*.js.map
+src/app/**/*.css
+*.iml
+*.idea
+*.log
+*.pyo
