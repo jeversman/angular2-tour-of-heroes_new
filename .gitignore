@@ -4,9 +4,9 @@
 /report
 /typings
 .DS_Store
-src/app/**/*.js
-src/app/**/*.js.map
-src/app/**/*.css
+app/**/*.js
+app/**/*.js.map
+app/**/*.css
 *.iml
 *.idea
 *.log
